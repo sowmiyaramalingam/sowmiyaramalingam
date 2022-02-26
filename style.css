@@ -1,0 +1,46 @@
+*{
+   font-family: monherrat;
+}
+h1{
+    background-color:#f6d3e3;
+   padding: 30px;
+}
+ h1 li{ 
+   display: inline-table;
+   margin: 50px;
+  
+}   
+form{
+   margin-left: 40%
+}
+h2{
+ font-size:100px;
+}
+h2 li{
+   padding: 10px;
+   display: inline;
+}
+h3{
+   padding: 50px;
+}
+h3  li{
+   padding: 10px;
+   display: inline;
+   font-size: 100px;
+}
+h4{
+   font-family: moherrat;
+   font-size:60px;
+}
+h4 li{
+   font-size: 50px;
+}
+footer{
+   font-size: 25px;
+}
+.sample{
+   text-align: center;
+   background-color:#f6d3e3;
+   padding: 30px;
+}
+
